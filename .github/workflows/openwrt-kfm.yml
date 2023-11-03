@@ -8,12 +8,12 @@
 #
 # Jeff edit for workflow push Nov 2, 2023
 
-name: OpenWrt-CI
+name: OpenWrt-CI-Jeff
 
 on:
-  push:
-    branches: 
-      - master
+  # push:
+  #  branches: 
+  #    - master
   # schedule:
   #   - cron: 0 20 * * *
   release:
